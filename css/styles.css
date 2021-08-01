@@ -598,7 +598,7 @@ hr{
    }
   }
 
-/********** Extra small devices only **********/ 
+/*********** Extra small devices only **********/ 
 @media (max-width: 575px) { 
   #mypic {
     border-right:transparent;
