@@ -133,11 +133,12 @@ body {
     }
     #by {
       margin-bottom: -7px;
-      font-family: 'Rajdhani', sans-serif;
+      font-family: 'Shadows Into Light', cursive;
     }
     #name {
       font-size:5vw;
-      font-family: 'Russo One', sans-serif;
+      font-family: 'Rajdhani', sans-serif;
+      
     }
     .below-header {
         position:relative;
