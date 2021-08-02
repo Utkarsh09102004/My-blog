@@ -9,13 +9,15 @@ body {
     height:80px;
 }
 
-
+header {
+  
+}
 
 .nav-item{
     position: relative;
     display: inline-block;
     padding: 25px 30px;
-    margin:  0;
+    margin:  0px;
     color: rgb(140, 211, 250);
     text-decoration: none;
     text-transform: uppercase;
@@ -287,10 +289,7 @@ body {
 
      
     /*****start of social media*******/
-    .wrapper {
-
-    }
-    
+  
     
     
     .wrapper .icon {
@@ -540,6 +539,9 @@ body {
   hr {
     display:none;
   }
+  #recent {
+    margin-left:40px; font-size:4em;
+  }
 
 
 }
@@ -560,6 +562,9 @@ body {
 }
 hr{
   display:none;
+}
+#recent {
+  margin-left:40px; font-size:4em;
 }
 } 
 
@@ -596,6 +601,10 @@ hr{
     #number-m {
      margin-left:8vw;
    }
+
+   #recent {
+    margin-left:40px; font-size:4em;
+  }
   }
 
 /*********** Extra small devices only **********/ 
@@ -637,10 +646,17 @@ hr{
 .caller {
   position: relative;
   margin-top: 30px;
-  margin-left:-120vw;
+  margin-left:-136vw;
 }
 #number-m {
  margin-left:8vw;
+}
+#mybar {
+  margin-right: 80px;
+}
+#recent {
+  font-size:2.6em;
+  margin-left:0px;
 }
 }
 
